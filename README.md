@@ -1,4 +1,4 @@
-This code appears to be a Python script that attempts to perform a brute force attack on a login page. Here's a breakdown of what the code does:
+<h1> perform a brute force attack on a login page. Here's a breakdown of what the code does: </h1>
 
 The code reads a list of passwords from a file named "password.txt" and stores them in a list called passod.
 It then loops through each password in the passod list.
